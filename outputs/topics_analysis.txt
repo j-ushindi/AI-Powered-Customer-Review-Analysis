@@ -1,0 +1,24 @@
+TOPIC 1: Taste/Flavor
+Description: Predominantly negative mentions related to taste/flavor
+Sentiment: Negative
+Prevalence: 50.4%
+
+TOPIC 2: Product Quality
+Description: Predominantly negative mentions related to product quality
+Sentiment: Negative
+Prevalence: 30.4%
+
+TOPIC 3: Price/Value
+Description: Predominantly negative mentions related to price/value
+Sentiment: Negative
+Prevalence: 23.7%
+
+TOPIC 4: Shipping/Delivery
+Description: Predominantly negative mentions related to shipping/delivery
+Sentiment: Negative
+Prevalence: 21.1%
+
+TOPIC 5: Packaging
+Description: Predominantly negative mentions related to packaging
+Sentiment: Negative
+Prevalence: 17.9%

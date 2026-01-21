@@ -1,0 +1,100 @@
+{
+  "total_reviews": 4945,
+  "sentiment_distribution": {
+    "Positive": {
+      "count": 4383,
+      "percentage": 88.63498483316481
+    },
+    "Negative": {
+      "count": 464,
+      "percentage": 9.383215369059657
+    },
+    "Neutral": {
+      "count": 98,
+      "percentage": 1.9817997977755308
+    }
+  },
+  "average_rating": 4.19474216380182,
+  "top_negative_words": [
+    {
+      "word": "with",
+      "count": 233
+    },
+    {
+      "word": "taste",
+      "count": 185
+    },
+    {
+      "word": "product",
+      "count": 181
+    },
+    {
+      "word": "like",
+      "count": 158
+    },
+    {
+      "word": "very",
+      "count": 144
+    },
+    {
+      "word": "them",
+      "count": 141
+    },
+    {
+      "word": "just",
+      "count": 127
+    },
+    {
+      "word": "from",
+      "count": 125
+    },
+    {
+      "word": "coffee",
+      "count": 120
+    },
+    {
+      "word": "what",
+      "count": 101
+    },
+    {
+      "word": "food",
+      "count": 99
+    },
+    {
+      "word": "when",
+      "count": 99
+    },
+    {
+      "word": "flavor",
+      "count": 88
+    },
+    {
+      "word": "other",
+      "count": 82
+    },
+    {
+      "word": "amazon",
+      "count": 82
+    },
+    {
+      "word": "only",
+      "count": 81
+    },
+    {
+      "word": "about",
+      "count": 80
+    },
+    {
+      "word": "good",
+      "count": 77
+    },
+    {
+      "word": "your",
+      "count": 75
+    },
+    {
+      "word": "more",
+      "count": 73
+    }
+  ]
+}
